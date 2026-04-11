@@ -211,4 +211,6 @@ Email: `hnarra@usc.edu`
 
 ## License
 
-Add a license section here if you plan to open-source or distribute the project more broadly.
+This project is released under the MIT License.
+
+You are free to use, modify, distribute, and adapt this work with attribution under the terms of the [LICENSE](LICENSE) file.
